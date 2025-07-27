@@ -4,6 +4,7 @@
 
 The primary goal of `DataNetworkGraph` is to enable the visualization of relationships and connections within your data map, representing clusters as nodes and defined relationships as edges. This allows for a richer understanding of the underlying structure and interactions within your high-dimensional data, presented with the same focus on aesthetic quality as the original `DataMapPlot`.
 
+![env_250](examples/dng_env.png)
 ## Primary Additions and Features
 
 `DataNetworkGraph` introduces key modifications and features to facilitate network graph visualization:
