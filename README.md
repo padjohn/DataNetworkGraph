@@ -50,7 +50,7 @@ datamapplot.create_interactive_plot(
 
 ## Installation
 
-`DataNetworkGraph` relies on the same core dependencies as `DataMapPlot`.
+`DataNetworkGraph` shares core dependencies with `DataMapPlot`.
 
 The installation method for `DataNetworkGraph` will be provided here once it's packaged.
 In the meantime, you can install the required dependencies:
