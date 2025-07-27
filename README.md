@@ -44,3 +44,52 @@ datamapplot.create_interactive_plot(
     priority=priority, # optional
     **style_keywords # Other datamapplot styling options
 )
+````
+
+**Please refer to the [original DataMapPlot documentation](https://datamapplot.readthedocs.io/) for detailed information on general usage of `create_plot`, `create_interactive_plot`, and other plotting options that are still relevant to `DataNetworkGraph`.**
+
+## Installation
+
+`DataNetworkGraph` relies on the same core dependencies as `DataMapPlot`.
+
+The installation method for `DataNetworkGraph` will be provided here once it's packaged.
+In the meantime, you can install the required dependencies:
+
+  * Numpy
+  * Matplotlib
+  * Scikit-learn
+  * Pandas
+  * Datashader
+  * Scikit-image
+  * Numba
+  * Requests
+  * Jinja2
+
+You can typically install these using pip:
+
+```bash
+pip install numpy matplotlib scikit-learn pandas datashader scikit-image numba requests jinja2
+```
+
+## License
+
+`DataNetworkGraph` is MIT licensed, inheriting from the original [DataMapPlot project](https://github.com/TutteInstitute/datamapplot). See the LICENSE file for details.
+
+## Help and Support
+
+For general help and support regarding the base `DataMapPlot` functionalities, please refer to the `DataMapPlot`'s [Read the Docs documentation](https://datamapplot.readthedocs.io/) and their [issue tracker](https://github.com/TutteInstitute/datamapplot/issues).
+
+For issues or questions specifically related to the network graph extensions in `DataNetworkGraph`, please [open an issue](https://www.google.com/search?q=https://github.com/norygami/DataNetworkGraph/issues/new) in this repository.
+
+## Contributing
+
+Contributions to `DataNetworkGraph` are welcome\! If you have ideas for features, improvements, or examples related to network graph visualization on data maps, please get in touch. To contribute, please fork this project, make your changes, and submit a pull request.
+
+**We extend our sincere gratitude to the developers of [DataMapPlot](https://github.com/TutteInstitute/datamapplot) for creating the foundational library upon which `DataNetworkGraph` is built.**
+
+-----
+
+**Original `DataMapPlot` information (for context):**
+
+  * **Original Repository:** [https://github.com/TutteInstitute/datamapplot](https://github.com/TutteInstitute/datamapplot)
+  * **Original Documentation:** [https://datamapplot.readthedocs.io/](https://datamapplot.readthedocs.io/)
